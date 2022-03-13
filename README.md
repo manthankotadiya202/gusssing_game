@@ -1,2 +1,2 @@
-# gusssing_game
+# guessing_game
 guessing game repo
