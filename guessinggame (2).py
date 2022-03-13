@@ -73,7 +73,7 @@ def guessing_game_together(player1, player2):
 
 
 def play_together():
-    print('PLAYER CAN PLAY GAME TOGETHER')
+    print('PLAYER PLAY GAME TOGETHER')
     player1 = input('Enter player 1 name:')
     player2 = input('Enter player 2 name:')
     list_1 = [player1, player2]
