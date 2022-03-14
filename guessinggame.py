@@ -18,7 +18,7 @@ def guessing_game():
 
 
 def play_separately():
-    print('YOU CAN PLAYER PLAY GAME SEPARATELY')
+    print('PLAYER PLAY GAME SEPARATELY')
     player1 = input('Enter player 1 name:')
     counter1 = guessing_game()
     print(f'Player1: {player1}\nScore: {counter1}', end="\n\n")
